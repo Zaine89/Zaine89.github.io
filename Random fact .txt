@@ -1,0 +1,22 @@
+Random fact 
+curl https://meowfacts.herokuapp.com/
+
+weather 
+curl https://goweather.herokuapp.com/weather/Manchester
+
+Joke 
+curl https://v2.jokeapi.dev/joke/Programming,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&format=txt
+
+quotes 
+curl https://type.fit/api/quotes
+
+bank holidays 
+curl https://www.gov.uk/bank-holidays.json
+
+cat gif 
+curl https://cataas.com/cat/gif --output cat.gif
+
+news 
+af1f915016734ff38eb56e2512414081
+curl -H "x-api-key: af1f915016734ff38eb56e2512414081"  "https://newsapi.org/v2/top-headlines?country=gb&pagesize=3"
+
