@@ -16,7 +16,5 @@ curl https://www.gov.uk/bank-holidays.json
 cat gif 
 curl https://cataas.com/cat/gif --output cat.gif
 
-news 
-af1f915016734ff38eb56e2512414081
-curl -H "x-api-key: af1f915016734ff38eb56e2512414081"  "https://newsapi.org/v2/top-headlines?country=gb&pagesize=3"
+
 
